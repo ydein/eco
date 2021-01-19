@@ -1,0 +1,70 @@
+@font-face {
+	font-family: 'Conv_DINEngschriftStd';
+	src: url('i/DINEngschriftStd.eot');
+	src: local('☺'), 
+		url('i/DINEngschriftStd.woff') format('woff'), 
+		url('i/DINEngschriftStd.ttf') format('truetype'), 
+		url('i/DINEngschriftStd.svg') format('svg');
+		font-weight: normal;
+		font-style: normal;
+}
+@font-face {
+	font-family: 'Conv_MyriadPro-Bold';
+	src: url('i/MyriadPro-Bold.eot');
+	src: local('☺'), 
+		url('i/MyriadPro-Bold.woff') format('woff'), 
+		url('i/MyriadPro-Bold.ttf') format('truetype'), 
+		url('i/MyriadPro-Bold.svg') format('svg');
+		font-weight: normal;
+		font-style: normal;
+}
+@font-face {
+	font-family: 'Conv_MyriadPro-BoldCond';
+	src: url('i/MyriadPro-BoldCond.eot');
+	src: local('☺'), 
+		url('i/MyriadPro-BoldCond.woff') format('woff'), 
+		url('i/MyriadPro-BoldCond.ttf') format('truetype'), 
+		url('i/MyriadPro-BoldCond.svg') format('svg');
+		font-weight: normal;
+		font-style: normal;
+}
+@font-face {
+	font-family: 'Conv_MyriadPro-Cond';
+	src: url('i/MyriadPro-Cond.eot');
+	src: local('☺'), 
+		url('i/MyriadPro-Cond.woff') format('woff'), 
+		url('i/MyriadPro-Cond.ttf') format('truetype'), 
+		url('i/MyriadPro-Cond.svg') format('svg');
+		font-weight: normal;
+		font-style: normal;
+}
+@font-face {
+	font-family: 'Conv_MyriadPro-Light';
+	src: url('i/MyriadPro-Light.eot');
+	src: local('☺'), 
+		url('i/MyriadPro-Light.woff') format('woff'), 
+		url('i/MyriadPro-Light.ttf') format('truetype'), 
+		url('i/MyriadPro-Light.svg') format('svg');
+		font-weight: normal;
+		font-style: normal;
+}
+@font-face {
+	font-family: 'Conv_MyriadPro-Regular';
+	src: url('i/MyriadPro-Regular.eot');
+	src: local('☺'), 
+		url('i/MyriadPro-Regular.woff') format('woff'), 
+		url('i/MyriadPro-Regular.ttf') format('truetype'), 
+		url('i/MyriadPro-Regular.svg') format('svg');
+		font-weight: normal;
+		font-style: normal;
+}
+@font-face {
+	font-family: 'Conv_MyriadPro-Semibold';
+	src: url('i/MyriadPro-Semibold.eot');
+	src: local('☺'), 
+		url('i/MyriadPro-Semibold.woff') format('woff'), 
+		url('i/MyriadPro-Semibold.ttf') format('truetype'), 
+		url('i/MyriadPro-Semibold.svg') format('svg');
+		font-weight: normal;
+		font-style: normal;
+}
